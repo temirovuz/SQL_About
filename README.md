@@ -48,3 +48,13 @@ ____
 | **OFFSET**          | Natija to'plamining qaysi qatorlardan boshlab olinishi kerakligini belgilaydi..                                                                                         | **SELECT** name **FROM** users **LIMIT** 5 **OFFSET** 2;                                                                                             |
 | **TRUNCATE TABLE**  | Jadvaldagi barcha qatorlarni tez va samarali tarzda o'chirish uchun ishlatiladi.                                                                                        | **TRUNCATE TABLE** users;                                                                                                                            |
 | **CASE**            | Shartli mantiqni amalga oshirish uchun ishlatiladi. U shartlar asosida turli natijalarni qaytarishga imkon beradi.                                                      | **SELECT** name, grades **CASE WHEN** grades = 5 **THEN** 'Excellent' **CASE WHEN** grades = 4 **THEN** 'Good' **ELSE** 'Bad' **END FROM** students; |
+
+> **SQLda** foydalanuvchi tomonidan aniqlangan **funksiyalar (user-defined functions, UDF)** yordamida ma'lum bir
+> hisob-kitob yoki operatsiyalarni qayta-qayta bajarish uchun kod yozish mumkin. Bu funksiyalar sizga murakkab
+> hisob-kitoblarni yoki ma'lumotlarni manipulyatsiya qilishni soddalashtirishga yordam beradi.
+> ![Test-javobini-%-da-hisoblash](https://github.com/user-attachments/assets/7f2b788a-e58a-4a65-a97d-d2a9f9acde37)
+> ![Test-javobini-%-da-hisoblash (1)](https://github.com/user-attachments/assets/dd8948b3-cdeb-48aa-a546-ee1b9b5a3942)
+> ![NATIJA-github com_temirovuz](https://github.com/user-attachments/assets/128290ef-e577-437b-ad89-17db7009827f)
+
+
+## [🗯TELEGRAM](https://t.me/temirov)
