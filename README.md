@@ -57,4 +57,20 @@ ____
 > ![NATIJA-github com_temirovuz](https://github.com/user-attachments/assets/128290ef-e577-437b-ad89-17db7009827f)
 
 
+> **View**'lar murakkab so'rovlarni **soddalashtirish** va ulardan **qayta foydalanishni osonlashtirish** uchun
+> ishlatiladi. Misol uchun, ko'p jadvalni birlashtirib yoki murakkab shartlar bilan filtrlaydigan so'rovni har safar
+> yozmasdan, bitta view orqali amalga oshirish mumkin.
+
+![View-example](https://github.com/user-attachments/assets/175faa3e-369a-4151-b4e8-840f1eaf3fc5)
+
+> **Transaction Control Language (TCL)** SQLning bir qismi bo'lib, **transactionlarni** boshqarish uchun ishlatiladi.
+> Transaction — bu bir nechta SQL buyruqlari to'plamidir, ular bitta birlik sifatida bajariladi. Transactionlar
+> ma'lumotlar bazasida bir qator operatsiyalarni amalga oshiradi va ular **muvaffaqiyatli** bajarilgan taqdirda barcha
+> o'
+> zgarishlar **doimiy bo'ladi** yoki **biror xato yuz berganda** barcha o'zgarishlar **bekor** qilinadi.
+
+![Bank-Hisoblaridan-Pul-O'tkazish (1)](https://github.com/user-attachments/assets/142e2b66-2a3e-45b6-9af9-01e729bf22ba)
+
+
+
 ## [🗯TELEGRAM](https://t.me/temirov)
