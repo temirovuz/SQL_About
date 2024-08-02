@@ -66,11 +66,14 @@ ____
 > **Transaction Control Language (TCL)** SQLning bir qismi bo'lib, **transactionlarni** boshqarish uchun ishlatiladi.
 > Transaction — bu bir nechta SQL buyruqlari to'plamidir, ular bitta birlik sifatida bajariladi. Transactionlar
 > ma'lumotlar bazasida bir qator operatsiyalarni amalga oshiradi va ular **muvaffaqiyatli** bajarilgan taqdirda barcha
-> o'
-> zgarishlar **doimiy bo'ladi** yoki **biror xato yuz berganda** barcha o'zgarishlar **bekor** qilinadi.
+> o'zgarishlar **doimiy bo'ladi** yoki **biror xato yuz berganda** barcha o'zgarishlar **bekor** qilinadi.
 
 ![Bank-Hisoblaridan-Pul-O'tkazish (1)](https://github.com/user-attachments/assets/142e2b66-2a3e-45b6-9af9-01e729bf22ba)
 
+> **Stored Procedure** — bu SQL buyruqlari va **mantiqiy kodlar to'plami** bo'lib, **bir marta yaratiladi** va
+> keyinchalik **ko'p marta chaqirilishi** mumkin. Stored Procedurelar ma'lumotlar bazasida saqlanadi va SQL Server yoki
+> boshqa DBMS (ma'lumotlar bazasi boshqarish tizimi) tomonidan bajariladi.
 
+![Stored-Procedure-yaratishva-chaqirish-github com_temirovuz](https://github.com/user-attachments/assets/2ca299c3-f928-45f3-bbc9-842379f430af)
 
 ## [🗯TELEGRAM](https://t.me/temirov)
