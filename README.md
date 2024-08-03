@@ -76,4 +76,14 @@ ____
 
 ![Stored-Procedure-yaratishva-chaqirish-github com_temirovuz](https://github.com/user-attachments/assets/2ca299c3-f928-45f3-bbc9-842379f430af)
 
+> **Aggregat funksiyalar** SQL'da bir nechta satrlarni **bitta umumiy natijaga birlashtirish** uchun ishlatiladigan
+> funksiyalardir. Bu funksiyalar odatda **statistik** yoki **yig'indi ma'lumotlarni** chiqarish uchun ishlatiladi.
+
+1. **COUNT()** - satrlar sonini hisoblash.
+1. **SUM()** - ustundagi qiymatlar yig'indisini hisoblash.
+1. **AVG()** - stundagi qiymatlar o'rtachasini hisoblash.
+1. **MIN()** - ustundagi eng kichik qiymatni topish.
+1. **COUNT** - ustundagi eng katta qiymatni topish.
+
+![Aggregate-funksiyalar-github com_temirovuz](https://github.com/user-attachments/assets/cf276604-1be5-4ae3-b1d6-f5e042f9acda)
 ## [🗯TELEGRAM](https://t.me/temirov)
